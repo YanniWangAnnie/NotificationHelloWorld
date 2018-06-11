@@ -1,0 +1,11 @@
+c:\users\viye\source\repos\NotificationServer\NotificationServer\bin\Release\netcoreapp2.0\NotificationServer.deps.json
+c:\users\viye\source\repos\NotificationServer\NotificationServer\bin\Release\netcoreapp2.0\NotificationServer.runtimeconfig.json
+c:\users\viye\source\repos\NotificationServer\NotificationServer\bin\Release\netcoreapp2.0\NotificationServer.runtimeconfig.dev.json
+c:\users\viye\source\repos\NotificationServer\NotificationServer\bin\Release\netcoreapp2.0\NotificationServer.dll
+c:\users\viye\source\repos\NotificationServer\NotificationServer\bin\Release\netcoreapp2.0\NotificationServer.pdb
+c:\users\viye\source\repos\NotificationServer\NotificationServer\obj\Release\netcoreapp2.0\NotificationServer.csprojResolveAssemblyReference.cache
+c:\users\viye\source\repos\NotificationServer\NotificationServer\obj\Release\netcoreapp2.0\NotificationServer.csproj.CoreCompileInputs.cache
+c:\users\viye\source\repos\NotificationServer\NotificationServer\obj\Release\netcoreapp2.0\NotificationServer.AssemblyInfoInputs.cache
+c:\users\viye\source\repos\NotificationServer\NotificationServer\obj\Release\netcoreapp2.0\NotificationServer.AssemblyInfo.cs
+c:\users\viye\source\repos\NotificationServer\NotificationServer\obj\Release\netcoreapp2.0\NotificationServer.dll
+c:\users\viye\source\repos\NotificationServer\NotificationServer\obj\Release\netcoreapp2.0\NotificationServer.pdb
